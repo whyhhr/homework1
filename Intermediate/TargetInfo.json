@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "homework1",
+			"Path": "F:\\UE4Source\\myproject\\work1\\homework1\\Source\\homework1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "homework1Editor",
+			"Path": "F:\\UE4Source\\myproject\\work1\\homework1\\Source\\homework1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
